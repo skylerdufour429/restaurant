@@ -1,0 +1,11 @@
+# Node / web artifacts
+node_modules/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Local environment files
+.env
+.env.*
