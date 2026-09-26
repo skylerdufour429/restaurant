@@ -1,0 +1,222 @@
+[
+  {
+    "id": "animal-sounds",
+    "name": "Animal Sounds",
+    "version": "2.0",
+    "bundleId": "com.smartbabyapps.animalsounds",
+    "platform": "iOS",
+    "minimumOs": "3.1",
+    "binarySizeMb": 19.8,
+    "download": "downloads/Animal-Sounds-2.0.ipa",
+    "description": "A playful audio learning app for young children featuring animal noises and simple interactions."
+  },
+  {
+    "id": "soundtouch",
+    "name": "SoundTouch",
+    "version": "1.4",
+    "bundleId": "com.yourcompany.SoundTouch",
+    "platform": "iOS",
+    "minimumOs": "3.0",
+    "binarySizeMb": 155.5,
+    "download": "downloads/SoundTouch-1.4.ipa",
+    "description": "A sound-mixing and music exploration app for experimenting with playback controls and effects."
+  },
+  {
+    "id": "tozzle",
+    "name": "Tozzle",
+    "version": "3.7",
+    "bundleId": "com.nodeflexion.Tozzle",
+    "platform": "iOS",
+    "minimumOs": "3.1.3",
+    "binarySizeMb": 112.6,
+    "download": "downloads/Tozzle-3.7.ipa",
+    "description": "A matching and puzzle-style game focused on tactile tile and pattern gameplay."
+  },
+  {
+    "id": "autismxpress",
+    "name": "AutismXpress",
+    "version": "1.0",
+    "bundleId": "X7WS995LSR.com.StudioEmotion.AutismXpress",
+    "platform": "iOS",
+    "minimumOs": "3.1.2",
+    "binarySizeMb": 7.4,
+    "download": "downloads/AutismXpress-1.0.ipa",
+    "description": "A therapeutic communication and interaction app designed to support early learning routines."
+  },
+  {
+    "id": "lunchbox",
+    "name": "Lunchbox",
+    "version": "1.4",
+    "bundleId": "com.thup.MonkeyPreschool",
+    "platform": "iOS",
+    "minimumOs": "3.0",
+    "binarySizeMb": 13.7,
+    "download": "downloads/Lunchbox-1.4.ipa",
+    "description": "A classroom-inspired app focusing on food, mealtime learning, and simple skill games."
+  },
+  {
+    "id": "peek-a-zoo-111",
+    "name": "Peek-a-Zoo",
+    "version": "1.1.1",
+    "bundleId": "com.duckduckmoosedesign.peekazoo",
+    "platform": "iOS",
+    "minimumOs": "3.0",
+    "binarySizeMb": 19.1,
+    "download": "downloads/Peek-a-Zoo-1.1.1.ipa",
+    "description": "A hidden-object and animal discovery experience with playful peek-through interactions."
+  },
+  {
+    "id": "michigan-nature-sounds",
+    "name": "Michigan Nature Sounds",
+    "version": "1.0",
+    "bundleId": "com.yourcompany.MichiganNatureSounds",
+    "platform": "iOS",
+    "minimumOs": "3.0",
+    "binarySizeMb": 24.6,
+    "download": "downloads/Michigan-Nature-Sounds-1.0.ipa",
+    "description": "An ambient sound collection inspired by natural Michigan landscapes and acoustic environments."
+  },
+  {
+    "id": "peek-a-zoo-10",
+    "name": "Peek-a-Zoo",
+    "version": "1.0",
+    "bundleId": "com.tbd.pazCLL",
+    "platform": "iOS",
+    "minimumOs": "3.0",
+    "binarySizeMb": 24.6,
+    "download": "downloads/Peek-a-Zoo-1.0.ipa",
+    "description": "An earlier build of the peek-and-find animal app with a simpler visual learning flow."
+  },
+  {
+    "id": "artsee",
+    "name": "Artsee",
+    "version": "1.1",
+    "bundleId": "com.britejar.artsee",
+    "platform": "iOS",
+    "minimumOs": "2.2",
+    "binarySizeMb": 12.4,
+    "download": "downloads/Artsee-1.1.ipa",
+    "description": "An art and creativity app encouraging drawing, composition, and simple color exploration."
+  },
+  {
+    "id": "angry-birds",
+    "name": "Angry Birds",
+    "version": "1.5.3",
+    "bundleId": "com.rovio.AngryBirdsHalloween",
+    "platform": "iOS",
+    "minimumOs": "3.0",
+    "binarySizeMb": 16.8,
+    "download": "downloads/Angry-Birds-1.5.3.ipa",
+    "description": "A classic physics-based arcade game with seasonal Halloween-themed presentation."
+  },
+  {
+    "id": "farm-flip-fun",
+    "name": "Farm Flip Fun",
+    "version": "1.0",
+    "bundleId": "lv.yapp.farmflipfun",
+    "platform": "iOS",
+    "minimumOs": "3.0",
+    "binarySizeMb": 10.6,
+    "download": "downloads/Farm-Flip-Fun-1.0.ipa",
+    "description": "A lightweight farm-themed match-and-collect game centered on quick play sessions."
+  },
+  {
+    "id": "farm-story",
+    "name": "Farm Story",
+    "version": "1.2",
+    "bundleId": "com.teamlava.farmstory",
+    "platform": "iOS",
+    "minimumOs": "3.0",
+    "binarySizeMb": 19.9,
+    "download": "downloads/Farm-Story-1.2.ipa",
+    "description": "A farm management and storytelling app with item collection and cozy narrative elements."
+  },
+  {
+    "id": "stickers",
+    "name": "Stickers",
+    "version": "1.0",
+    "bundleId": "com.nightanddaystudios.ericcarlestickers",
+    "platform": "iOS",
+    "minimumOs": "5.0",
+    "binarySizeMb": 206.1,
+    "download": "downloads/Stickers-1.0.ipa",
+    "description": "A sticker collection and interactive media app featuring character art and themed assets."
+  },
+  {
+    "id": "forest",
+    "name": "Forest",
+    "version": "1.1.0",
+    "bundleId": "com.nightanddaystudios.peekabooforest",
+    "platform": "iOS",
+    "minimumOs": "3.1.3",
+    "binarySizeMb": 25.6,
+    "download": "downloads/Forest-1.1.0.ipa",
+    "description": "A nature-play app centered on woodland scenes, objects, and simple sensory discovery."
+  },
+  {
+    "id": "virtuoso",
+    "name": "Virtuoso",
+    "version": "3.1.2",
+    "bundleId": "com.peterb.virtuosopianofree",
+    "platform": "iOS",
+    "minimumOs": "4.0",
+    "binarySizeMb": 19.9,
+    "download": "downloads/Virtuoso-3.1.2.ipa",
+    "description": "A piano and music practice tool focused on note recognition and keyboard learning."
+  },
+  {
+    "id": "abc-tracer",
+    "name": "ABC Tracer",
+    "version": "1.8",
+    "bundleId": "com.appzoo.ABCTracer",
+    "platform": "iOS",
+    "minimumOs": "2.2.1",
+    "binarySizeMb": 20.9,
+    "download": "downloads/ABC-Tracer-1.8.ipa",
+    "description": "A tracing app for learning letters, shapes, and early handwriting basics."
+  },
+  {
+    "id": "peek-wild",
+    "name": "Peek Wild",
+    "version": "2.0.1",
+    "bundleId": "com.nightanddaystudios.peekaboowild",
+    "platform": "iOS",
+    "minimumOs": "3.1.3",
+    "binarySizeMb": 9.8,
+    "download": "downloads/Peek-Wild-2.0.1.ipa",
+    "description": "A wildlife-themed hidden-object experience with bold surfaces and interactive discovery patterns."
+  },
+  {
+    "id": "peekaboo",
+    "name": "Peekaboo",
+    "version": "2.0",
+    "bundleId": "com.nightanddaystudios.peekaboobarn",
+    "platform": "iOS",
+    "minimumOs": "2.2",
+    "binarySizeMb": 3.6,
+    "download": "downloads/Peekaboo-2.0.ipa",
+    "description": "A compact object discovery game with simple patterns and sensory interaction."
+  },
+  {
+    "id": "finding-sight",
+    "name": "Finding Sight",
+    "version": "2.1",
+    "bundleId": "my.finding3",
+    "platform": "iOS",
+    "minimumOs": "3.2",
+    "binarySizeMb": 34.0,
+    "download": "downloads/Finding-Sight-2.1.ipa",
+    "description": "A visual learning app centered on object recognition and guided sensory discovery activities."
+  },
+  {
+    "id": "artikpix",
+    "name": "ArtikPix",
+    "version": "1.2.4",
+    "bundleId": "com.rinnapps.artikpix.iap",
+    "platform": "iOS",
+    "minimumOs": "3.1",
+    "binarySizeMb": 41.4,
+    "download": "downloads/ArtikPix-1.2.4.ipa",
+    "description": "A speech and articulation exercise app built around picture cues and language practice."
+  }
+]
